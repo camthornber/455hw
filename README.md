@@ -13,6 +13,12 @@ A pile of python for MATH455 numerical analysis I
 
 3b. Newton's method for two functions 
 
-4. Simpson's rule
+4\. Simpson's rule
    
-6. Gaussian elimination
+5\. Gaussian elimination
+
+7a. Jacobi method 
+
+7b. Gauss-Seidel method 
+
+7c. SOR method
